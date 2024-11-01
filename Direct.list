@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,cjjd19.com
 DOMAIN-SUFFIX,mfcad.com
 DOMAIN-SUFFIX,hanzipi.com
+DOMAIN-SUFFIX,dsp.mp.microsoft.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
